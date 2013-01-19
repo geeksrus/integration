@@ -23,7 +23,9 @@
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
+	// Some
     // Dispose of any resources that can be recreated.
+	// Other comments
 }
 
 @end
